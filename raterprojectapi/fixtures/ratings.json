@@ -1,0 +1,13 @@
+
+[
+    {
+        "model": "raterprojectapi.rating",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "rating": 5,
+            "user": 1
+    
+        }
+    }
+]
