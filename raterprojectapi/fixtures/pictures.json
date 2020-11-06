@@ -1,0 +1,11 @@
+[
+    {
+        "model": "raterprojectapi.picture",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "picture": "https://www.boardgamehalv.com/wp-content/uploads/2019/06/Catan1_Bg_1050x700-770x513.jpg",
+            "user": 1
+        }
+    }
+]
