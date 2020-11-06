@@ -1,0 +1,11 @@
+[
+    {
+        "model": "raterprojectapi.gamecategory",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "category": 1 
+    
+        }
+    }
+]

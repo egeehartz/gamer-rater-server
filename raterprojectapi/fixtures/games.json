@@ -1,0 +1,17 @@
+[
+    {
+        "model": "raterprojectapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Settlers of Catan",
+            "description": "Players take on the roles of settlers, each attempting to build and develop holdings while trading and acquiring resources. Players gain points as their settlements grow; the first to reach a set number of points, typically 10, wins.",
+            "designer": "Klaus Teuber",
+            "release_year": 1995,
+            "number_of_players": 4,
+            "est_time": 60,
+            "min_age": 10,
+            "user": 1
+
+        }
+    }
+]
